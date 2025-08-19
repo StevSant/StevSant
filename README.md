@@ -104,6 +104,7 @@ Currently:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated divider">
 
 <div align="center">
-  <sub>Last updated: 01 Jan 2025 12:00:00</sub>
+  <img src="https://img.shields.io/github/last-commit/StevSant/StevSant?label=Last%20Updated&style=flat-square&color=blue" alt="Last Commit">
 </div>
+
 
