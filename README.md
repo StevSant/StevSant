@@ -104,7 +104,6 @@ Currently:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated divider">
 
 <div align="center">
-  <sub>Last updated: {{ update manually or automate with GitHub Action }}</sub>
+  <sub>Last updated: 01 Jan 2025 12:00:00</sub>
 </div>
-
 
