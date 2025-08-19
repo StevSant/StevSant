@@ -66,23 +66,32 @@ Currently:
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <!-- GitHub Stats -->
-  <a href="https://github.com/StevSant">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=StevSant&show_icons=true&include_all_commits=true&count_private=true&theme=algolia" alt="StevSant's GitHub stats"/>
-  </a>
-  &nbsp;&nbsp;&nbsp; <!-- espacio entre imágenes -->
-  <!-- Top Languages -->
-  <a href="https://github.com/StevSant">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=StevSant&layout=compact&langs_count=8&theme=algolia&hide=html,css" alt="StevSant's Top Languages"/>
-  </a>
-  &nbsp;&nbsp;&nbsp; <!-- espacio entre imágenes -->
-  <!-- GitHub Streak -->
-  <a href="https://github.com/StevSant">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=StevSant&theme=algolia" alt="StevSant's GitHub streak"/>
-  </a>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <!-- Primer cuadro -->
+  <div style="flex: 1 1 400px; max-width: 450px;">
+    <a href="https://github.com/StevSant">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=StevSant&show_icons=true&include_all_commits=true&count_private=true&theme=algolia" alt="GitHub Stats"/>
+    </a>
+  </div>
+
+  <!-- Segundo cuadro -->
+  <div style="flex: 1 1 400px; max-width: 450px;">
+    <a href="https://github.com/StevSant">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=StevSant&layout=compact&langs_count=8&theme=algolia&hide=html,css" alt="Top Languages"/>
+    </a>
+  </div>
+
+  <!-- Tercer cuadro, línea completa -->
+  <div style="flex: 1 1 900px; max-width: 900px; margin-top: 20px;">
+    <a href="https://github.com/StevSant">
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=StevSant&theme=algolia" alt="GitHub Streak"/>
+    </a>
+  </div>
 
 </div>
+
+
 
 
 ## 🏆 Achievements
