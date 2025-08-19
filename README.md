@@ -29,6 +29,10 @@ Currently:
 
 ## 🧰 Tech & Tools
 
+<table>
+  <tr>
+    <td valign="top">
+
 ### Core Languages & Web
 
 <p>
@@ -38,6 +42,9 @@ Currently:
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3">
 </p>
 
+  </td>
+  <td valign="top">
+
 ### Platforms & Tools
 
 <p>
@@ -46,6 +53,10 @@ Currently:
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL">
 </p>
+
+  </td>
+  </tr>
+</table>
 
 ### Currently Exploring
 
@@ -61,7 +72,6 @@ Currently:
 | [Repo 2](https://github.com/StevSant) | JS       | What problem it solves / what you learned. |
 | [Repo 3](https://github.com/StevSant) | HTML/CSS | UI / design / layout practice.             |
  -->
-
 
 ## 📊 GitHub Analytics
 
@@ -80,15 +90,11 @@ Currently:
   </a>
 </div>
 
-
-
 ## 🏆 Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=StevSant&theme=algolia&margin-w=12&margin-h=12&no-bg=false&no-frame=false" alt="GitHub profile trophies">
 </div>
-
-
 
 ## 📈 Quick Profile Badges
 
@@ -103,5 +109,3 @@ Currently:
 <div align="center">
   <img src="https://img.shields.io/github/last-commit/StevSant/StevSant?label=Last%20Updated&style=flat-square&color=blue" alt="Last Commit">
 </div>
-
-
