@@ -76,11 +76,13 @@ Currently:
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=StevSant&layout=compact&langs_count=8&theme=algolia&hide=html,css" alt="StevSant's Top Languages"/>
   </a>
   &nbsp;&nbsp;&nbsp; <!-- espacio entre imágenes -->
-  <!-- GitHub Streak -->
+</div>
+
+<div align="center>
+    <!-- GitHub Streak -->
   <a href="https://github.com/StevSant">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=StevSant&theme=algolia" alt="StevSant's GitHub streak"/>
   </a>
-
 </div>
 
 
