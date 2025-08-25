@@ -96,6 +96,7 @@ Currently:
   <img src="https://github-profile-trophy.vercel.app/?username=StevSant&theme=algolia&margin-w=12&margin-h=12&no-bg=false&no-frame=false" alt="GitHub profile trophies"/>
 </p>
 
+
 ## 📈 Quick Profile Badges
 
 <p align="center">
